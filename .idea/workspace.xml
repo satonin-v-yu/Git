@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d95fe96-c6bb-462f-8673-9dd15d8f3ad5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../GitTest/src/Tes2.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GitTest/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../GitTest/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GitTest/src/Test2.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../GitTest/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -238,7 +237,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517578293648</updated>
-      <workItem from="1517578302193" duration="1854000" />
+      <workItem from="1517578302193" duration="1912000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1517578586359</created>
@@ -275,11 +274,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517580379699</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Global !!!">
+      <created>1517580474951</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1517580474951</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1854000" />
+    <option name="totallyTimeSpent" value="1912000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1384" height="738" extended-state="6" />
@@ -323,7 +329,8 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="Add first functions" />
     <MESSAGE value="Fuck You !!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fuck You !!!" />
+    <MESSAGE value="Global !!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Global !!!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
