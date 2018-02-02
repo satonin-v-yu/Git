@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d95fe96-c6bb-462f-8673-9dd15d8f3ad5" name="Default" comment="Add first functions">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GitTest/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../GitTest/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GitTest/src/GitTest.java" afterPath="$PROJECT_DIR$/../GitTest/src/GitTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GitTest/src/Tes2.java" afterPath="$PROJECT_DIR$/../GitTest/src/Tes2.java" />
-    </list>
+    <list default="true" id="3d95fe96-c6bb-462f-8673-9dd15d8f3ad5" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../GitTest/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/../GitTest/src/GitTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="63">
-              <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="40" />
+              <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -229,7 +225,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517578293648</updated>
-      <workItem from="1517578302193" duration="1663000" />
+      <workItem from="1517578302193" duration="1697000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1517578586359</created>
@@ -245,11 +241,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517578864665</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fuck You !!!">
+      <created>1517580289151</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1517580289151</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1663000" />
+    <option name="totallyTimeSpent" value="1697000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1384" height="738" extended-state="6" />
@@ -293,7 +296,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="Add first functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add first functions" />
+    <MESSAGE value="Fuck You !!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fuck You !!!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -311,7 +315,7 @@
     <entry file="file://$PROJECT_DIR$/../GitTest/src/GitTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
-          <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="40" />
+          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="41" />
           <folding />
         </state>
       </provider>
